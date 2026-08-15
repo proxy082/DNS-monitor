@@ -13,7 +13,7 @@ A simple python program that works using <a href="https://en.wikipedia.org/wiki/
 # Requirements
 - Python 3.x
 - Scapy
-### 3) Install dependency
+### Install dependency
 
 Run:
 
