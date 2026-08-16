@@ -19,11 +19,11 @@ Run:
 
 ```bash
 pip install scapy
-
+```
 ### Update python version
 
 Run:
 ```bash
 python --version
 pip --upgrade
-
+```
